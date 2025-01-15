@@ -71,20 +71,12 @@ git clone https://github.com/Nisha-Chavan-2024/farmer-s_friend.git
 
 ## 🔍 How It Works
 
-Select Your Crop: Choose from a list of supported crops like grapes, guava, wheat, and more.
+**Select Your Crop:** Choose from a list of supported crops like grapes, guava, wheat, and more.
 
-Explore Categories: Navigate through fertilizer guidelines, pest management, and expert advice.
+**Explore Categories:** Navigate through fertilizer guidelines, pest management, and expert advice.
 
-Follow Recommendations: Implement best practices to improve crop yield and quality.
+**Follow Recommendations:** Implement best practices to improve crop yield and quality.
 
-
-## 🌿 Why Farmer's Friend?
-
-Localized Knowledge: All recommendations are tailored to the specific needs of your region and crop.
-
-Comprehensive Support: From sowing to harvesting, every stage is covered.
-
-Sustainability Focused: Promotes eco-friendly and sustainable farming practices.
 
 
 ## 🌐 Connect With Us:

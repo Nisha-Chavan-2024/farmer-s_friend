@@ -53,7 +53,7 @@ This app bridges the gap between traditional farming practices and modern agricu
 
 Clone this repo:
 
-git clone https://github.com/yourusername/farmers-friend.git
+git clone https://github.com/Nisha-Chavan-2024/farmer-s_friend.git
 
 
 ## 🌍 Future Enhancements

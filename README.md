@@ -19,6 +19,7 @@ Banana
 
 This app bridges the gap between traditional farming practices and modern agricultural advancements, enabling farmers to make informed decisions effortlessly.
 
+
 ## 🎓 Key Features
 
 **Fertilizer Recommendations**: Best practices for crop growth based on soil type and crop needs.
@@ -31,6 +32,7 @@ This app bridges the gap between traditional farming practices and modern agricu
 
 **User-Friendly Interface**: Quick access to categorized crop information for an efficient user experience.
 
+
 ## 🚀 Tech Stack
 
 **Flutter**: Cross-platform framework for building beautiful and efficient apps.
@@ -41,9 +43,11 @@ This app bridges the gap between traditional farming practices and modern agricu
 
 **Canva**: Utilized for designing UI assets and graphics to enhance user experience.
 
+
 ## 📷 Screenshots  
 
-![Output](https://github.com/user-attachments/assets/3b8a6cda-f113-4ed2-acfc-a845c138cf82)
+![farmer output](https://github.com/user-attachments/assets/b5436a1f-8815-460c-8cae-95da0dfb20bd)
+
 
 ## 🚀 Quick Installation
 
@@ -64,6 +68,7 @@ git clone https://github.com/yourusername/farmers-friend.git
 
 **Offline Mode**: Enable access to critical information even without an internet connection.
 
+
 ## 🔍 How It Works
 
 Select Your Crop: Choose from a list of supported crops like grapes, guava, wheat, and more.
@@ -72,6 +77,7 @@ Explore Categories: Navigate through fertilizer guidelines, pest management, and
 
 Follow Recommendations: Implement best practices to improve crop yield and quality.
 
+
 ## 🌿 Why Farmer's Friend?
 
 Localized Knowledge: All recommendations are tailored to the specific needs of your region and crop.
@@ -79,6 +85,7 @@ Localized Knowledge: All recommendations are tailored to the specific needs of y
 Comprehensive Support: From sowing to harvesting, every stage is covered.
 
 Sustainability Focused: Promotes eco-friendly and sustainable farming practices.
+
 
 ## 🌐 Connect With Us:
 
